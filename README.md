@@ -1,2 +1,2 @@
-# talktide
-conference room prototype
+# TalkTide
+a conference room prototype
